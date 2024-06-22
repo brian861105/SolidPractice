@@ -1,3 +1,5 @@
+## 單一責任原則 SRP主要精神就是提高內聚力
+
 class Animal:
     def __init__(self, animal_name):
         self.name = animal_name
